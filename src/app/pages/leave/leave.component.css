@@ -1,0 +1,38 @@
+ .set-color
+ {
+     color: gray;
+     width: 30%;
+     
+ }
+ .example-form-field {
+    margin-right: 20px;
+  }
+  .field-size
+  {
+      margin-top: 20px;
+      width: 100%;
+      align-items: center; 
+      
+ background-color:white;
+  }
+  .page-design
+ { 
+     background-image: url("../../../assets/image.png");
+ }
+ table
+ { margin-left: 12%;
+     align-items: center;
+     text-align: center;
+     width: 80%;
+ }
+ th
+ {
+     color: white;
+     text-align: center;
+     font-size: 15px;
+     
+ }
+ td
+ {
+     color: white;
+ }

@@ -1,0 +1,19 @@
+ .full-width
+ {
+ width: 60%; 
+ background-color:white;
+ }
+ .set-color
+ { 
+     color: gray;
+ }
+ .page-design
+ { 
+     /* background-image: url("../../../assets/image.png"); */
+ }
+ .div-size {
+    height: 200px;
+    width: 50%;
+    background-color: rgb(130, 90, 90);
+    
+  }
